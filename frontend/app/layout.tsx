@@ -1,3 +1,5 @@
+import type { Metadata, Viewport } from "next";
+import type { ReactNode } from "react";
 import { Bebas_Neue, IBM_Plex_Mono, Inter } from "next/font/google";
 import "./globals.css";
 
@@ -21,7 +23,7 @@ const plexMono = IBM_Plex_Mono({
   display: "swap",
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   metadataBase: new URL("https://muhammadraihanakbar.com"),
   title: {
     default: "Muhammad Raihan Akbar | Fullstack Engineer",
@@ -83,14 +85,14 @@ export const metadata = {
   },
 };
 
-export const viewport = {
+export const viewport: Viewport = {
   themeColor: "#050509",
   colorScheme: "dark",
   width: "device-width",
   initialScale: 1,
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
   return (
     <html lang="en" className={`${inter.variable} ${bebas.variable} ${plexMono.variable}`}>
       <body>{children}</body>
