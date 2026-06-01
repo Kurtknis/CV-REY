@@ -1,0 +1,37 @@
+.faulty-terminal-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  opacity: 0;
+  animation: faulty-terminal-fade 1200ms ease forwards;
+}
+
+.faulty-terminal-container canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.faulty-terminal-fallback {
+  background:
+    radial-gradient(circle at 20% 16%, rgba(0, 212, 255, 0.16), transparent 32%),
+    linear-gradient(180deg, rgba(184, 216, 255, 0.1), rgba(0, 0, 0, 0.86));
+}
+
+.faulty-terminal-fallback-grid {
+  position: absolute;
+  inset: 0;
+  background:
+    repeating-linear-gradient(90deg, rgba(184, 216, 255, 0.14) 0 1px, transparent 1px 18px),
+    repeating-linear-gradient(180deg, rgba(184, 216, 255, 0.1) 0 1px, transparent 1px 14px);
+  opacity: 0.34;
+  filter: contrast(1.25);
+  mask-image: radial-gradient(circle at 50% 40%, black, transparent 75%);
+}
+
+@keyframes faulty-terminal-fade {
+  to {
+    opacity: 1;
+  }
+}

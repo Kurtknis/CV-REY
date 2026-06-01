@@ -1,0 +1,73 @@
+Muhammad Raihan Akbar
+FULLSTACK ENGINEER
+PROFILE
+Information Systems undergraduate at Universitas Pembangunan Jaya and Full-Stack Engineer. I design and ship
+scalable web systems end-to-end, from ERD modeling to production. Experienced across React, Next.js,
+PostgreSQL (Prisma), Supabase, MySQL, and PHP OOP. I build AI-integrated applications using Flask
+middleware with LLM APIs, and implement technical SEO including structured data and mobile-first optimization.
+Fast in execution, precise in structure
+PROFESSIONAL SKILLS
+Full-Stack Web Development
+(React & tailwind, Next.js, PHP
+OOP)
+Database Design &
+Management (PostgreSQL,
+MySQL, Supabase, Prisma ORM)
+AI Integration & API
+Development (Flask,
+OpenRouter API, REST API)
+Technical SEO & Mobile-First
+Optimization
+System Architecture & ERD
+Design
+Digital Marketing Strategy (STP
+Segmentation, CLV Analysis)
+Vscode,HTML+ CSS,Python,php
+Javascript,
+PROJECT
+FULLSTACK ENGINEER
+web aplication development | Jan 2026 - present
+Developed and maintained web-based applications using
+React and Next.js on the frontend, with PostgreSQL via
+Prisma ORM, Supabase, MySQL, and PHP OOP on the
+backend
+Developed and maintained web-based applications using
+React and Next.js on the frontend, with PostgreSQL via
+Prisma ORM, Supabase, MySQL, and PHP OOP on the
+backend
+DIGITAL MARKETING - PT Cipta Kreasi Buana
+SEO,CLV,STP | Nov 2025 - Jan 2026
+Executed technical SEO audits covering crawlability,
+canonical tag implementation, and on-page optimization
+to improve organic search performance
+Applied STP segmentation and CLV analysis to develop
+targeted marketing strategies aligned with business
+objectives
+WORK EXPERIENCE
+raihanpixx2007@gmail.com
++62-859-7455-3312
+https://www.linkedin.com/in/raihan-akbar-89925422a/
+muhammad.raihanakbar@student.upj.ac.id
+Indonesia Jakarta South Tanggerang city
+ACADEMIC HISTORY
+University of Pembangunan Jaya
+Information Systems Undergraduate | Aug 2025 - present
+Actively engaged in project-based learning covering
+system design, web development, and database
+management
+Completed academic assignments spanning ERD design,
+OOP-based backend development, and frontend
+engineering with real-world application context
+Accounting Procurement ERD
+System react | local database |
+Vercel -2026
+AI-Integrated Web App React
+Flask OpenRouter API
+PT Cipta Kreasi Buana
+Company Profile react.js
+-2025
+Narkoz Perfumery Brand
+Website Next.js -2026
+PojokProperti Real Estate
+Platform Next.js | Tailwind |
+Framer Motion -2026
